@@ -1,0 +1,6 @@
+{
+  "name": "Kongo Mall",
+  "description": "Le Marché Artisanal & Créations Congolaises Fait-Main — Boutique e-commerce moderne pour l'artisanat congolais avec paiement à la livraison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
